@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/arturito-helps/static/css/main.7acaea2f.css",
-    "main.js": "/arturito-helps/static/js/main.07d3183d.js",
+    "main.js": "/arturito-helps/static/js/main.df71bb03.js",
     "index.html": "/arturito-helps/index.html",
     "main.7acaea2f.css.map": "/arturito-helps/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/arturito-helps/static/js/main.07d3183d.js.map"
+    "main.df71bb03.js.map": "/arturito-helps/static/js/main.df71bb03.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/js/main.df71bb03.js"
   ]
 }
